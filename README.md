@@ -1,0 +1,1 @@
+A simple web app that generates random text based on most used phrases in polish series of books called "Dziady" written by Adam Mickiewicz. You can check it out at: http://smolaga.herokuapp.com/mickiewicz/
